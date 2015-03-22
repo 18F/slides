@@ -14,18 +14,18 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
-    <link rel="stylesheet" href="{{baseurl}}/assets/css/reveal.css">
-    <link rel="stylesheet" href="{{baseurl}}/assets/css/theme/18f.css" id="theme">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/reveal.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme/18f.css" id="theme">
 
     <!-- Code syntax highlighting -->
-    <link rel="stylesheet" href="{{baseurl}}/assets/lib/css/zenburn.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/lib/css/zenburn.css">
 
     <!-- Printing and PDF exports -->
     <script>
       var link = document.createElement( 'link' );
       link.rel = 'stylesheet';
       link.type = 'text/css';
-      link.href = window.location.search.match( /print-pdf/gi ) ? '{{baseurl}}/assets/css/print/pdf.css' : '{{baseurl}}/assets/css/print/paper.css';
+      link.href = window.location.search.match( /print-pdf/gi ) ? '{{site.baseurl}}/assets/css/print/pdf.css' : '{{site.baseurl}}/assets/css/print/paper.css';
       document.getElementsByTagName( 'head' )[0].appendChild( link );
     </script>
 
@@ -45,8 +45,8 @@
       </div>
     </div>
 
-    <script src="{{baseurl}}/assets/lib/js/head.min.js"></script>
-    <script src="{{baseurl}}/assets/js/reveal.js"></script>
+    <script src="{{site.baseurl}}/assets/lib/js/head.min.js"></script>
+    <script src="{{site.baseurl}}/assets/js/reveal.js"></script>
 
     <script>
 
@@ -62,12 +62,12 @@
 
         // Optional reveal.js plugins
         dependencies: [
-          { src: '{{baseurl}}/assets/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-          { src: '{{baseurl}}/assets/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: '{{baseurl}}/assets/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: '{{baseurl}}/assets/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
-          { src: '{{baseurl}}/assets/plugin/zoom-js/zoom.js', async: true },
-          { src: '{{baseurl}}/assets/plugin/notes/notes.js', async: true }
+          { src: '{{site.baseurl}}/assets/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: '{{site.baseurl}}/assets/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: '{{site.baseurl}}/assets/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: '{{site.baseurl}}/assets/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+          { src: '{{site.baseurl}}/assets/plugin/zoom-js/zoom.js', async: true },
+          { src: '{{site.baseurl}}/assets/plugin/notes/notes.js', async: true }
         ]
       });
 
