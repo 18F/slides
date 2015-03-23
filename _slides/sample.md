@@ -1,5 +1,6 @@
 ---
 layout: default
+path: sample
 title: Sample slide deck
 ---
 
