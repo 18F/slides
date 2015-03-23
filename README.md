@@ -37,7 +37,7 @@ To use 18F/slides:
 3. Create slides, using markdown syntax (technically, it's kramdown, go nuts).
 4. Separate slides using `---` for horizontal pagination between slides and `--` for vertical pagination.
 5. Commit the file to the `gh-pages` branch of the 18F/slides repo.
-6. Profit.
+6. Profit. See example [here](http://18f.github.io/slides/sample/#/).
 
 # How does it work?
 
