@@ -15,8 +15,13 @@ Background
 * Came to 18F in February
 
 --
-Including vertical slides
+Why is it important to involve an audience in your work?
 --
-How neat is this?
+* They feel more invested in the outcome
+* They have expertise you may not
+* Can point out errors
+* More hands, more help
 ---
-Moar *markdown*
+*Build for, not with*
+--
+
