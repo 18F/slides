@@ -1,7 +1,7 @@
 ---
 layout: default
 path: melodykramer
-title: Building in the Open: What Happens When A Community Enters The Process
+title: "Building in the Open: What Happens When A Community Enters The Process"
 ---
 
 # Building in the Open: What Happens When A Community Enters The Process
