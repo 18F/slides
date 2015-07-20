@@ -1,10 +1,10 @@
 ---
 layout: default
 path: sample
-title: Sample slide deck
+title: 18F and the Agile BPA
 ---
 
-# Overview: 18F and the Agile Delivery Services BPA
+## Overview: 18F and the Agile Delivery Services BPA
 ---
 But it can do slides
 --
