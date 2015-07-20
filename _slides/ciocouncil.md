@@ -5,10 +5,12 @@ title: 18F and the Agile BPA
 ---
 
 ## Overview: 18F and the Agile Delivery Services BPA
+### Noah Kunin and the 18F Consulting Team
 ---
-But it can do slides
+18F will transform how the **U.S. Government** builds and buys **digital services**.
 --
-Including vertical slides
+### Backstory
+This is an img ![](https://lh3.googleusercontent.com/_izP-SVxEwYJTkJ6n7KVwLXhflBjgOwO-qbWcvwUX7axqI7Tk22KVHRsRDmzkcRoH2uoOUidfNbWfMU=w2512-h1162-rw)
 --
 How neat is this?
 ---
