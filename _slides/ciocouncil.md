@@ -61,6 +61,8 @@ Our challenge
 
 We ended up with 200+ submissions and the overall quality exceeded our expectations. 
 ![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/agile-bpa-scoring-pool3.png)
+--
+<video controls><source src="https://github.com/18F/slides/blob/18f-pages/assets/video/UnitTestFail.mp4?raw=true" type="video/mp4">Your browser does not support the HTML video element.</video>
 ---
 ## What comes next
 * Finish *best value* evaluation
