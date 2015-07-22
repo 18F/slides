@@ -51,5 +51,9 @@ Great vendors **will** work with government, if we raise expectations, by replac
 ### Prototypes > Proposals
 --
 #### Code > Claims
---
+---
+The challenge: 
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/openFDA%20API.png)
+---
 ### Results
+We ended up with 200+ submissions and the overall quality exceeded our expectations. 
