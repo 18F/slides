@@ -44,6 +44,8 @@ Initial demand for 18F was greater than we had capacity to deliver on.
 
 We knew we needed to partner with the private sector. Would vendors embrace **how we work**, or reject it?
 ---
+## Government can design + create a **streamlined marketplace** for **agile delivery services**
+---
 ### Hypothesis
 
 Great vendors **will** work with government, if we raise expectations, by replacing proposals with prototype evaluations.
@@ -52,8 +54,29 @@ Great vendors **will** work with government, if we raise expectations, by replac
 --
 #### Code > Claims
 ---
-The challenge: 
+Our challenge 
 ![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/openFDA%20API.png)
 ---
 ### Results
+
 We ended up with 200+ submissions and the overall quality exceeded our expectations. 
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/agile-bpa-scoring-pool3.png)
+---
+## What comes next
+* Finish *best value* evaluation
+* On track for awards by end of summer or early fall.
+* Alpha: Task orders by 18F for 18F Projects that support our partner agencies. We expect task orders to be smaller than traditional government buys.
+* Beta: Embracing modular and incremental procurements. Beta may be bigger, either in # of vendors or $, or may radically change based upon what we learn
+--
+### Goal is to iterate and learn _quickly_.
+---
+Learn more:
+
+
+[The Agile Delivery BPA is (almost) here!](https://18f.gsa.gov/2015/06/15/agile-bpa-is-here/)
+
+[Labor Category Descriptions for Agile Procurements](https://pages.18f.gov/agile-labor-categories/)
+
+[Coming Soon: The Agile Delivery Services Solicitation](https://18f.gsa.gov/2015/04/23/coming-soon-the-agile-delivery-services-soliciatation/)
+
+
