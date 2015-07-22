@@ -4,14 +4,15 @@ path: sample
 title: 18F and the Agile BPA
 ---
 ## Overview: 18F and the Agile Delivery Services BPA
-### Noah Kunin and the 18F Consulting Team
+### 18F Consulting + Infrastructure and the GSA Schedule 70 team
+#### Noah Kunin | Director 18F Infrastructure
 ---
 ## Who we are + what we do
 --
 ## Backstory
 ![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/PIF%20-%20GSA%20-%2018F%20logos.png)
 --
-Become a **trusted partner** for agencies working to transform how they manage and deliver services
+Become a **trusted partner** for agencies
 --
 Our mission is to transform government from the inside out, **changing culture** by working with teams inside agencies who want to create great services for the public
 --
@@ -48,7 +49,7 @@ We knew we needed to partner with the private sector. Would vendors embrace **ho
 ---
 ### Hypothesis
 
-Great vendors **will** work with government, if we raise expectations, by replacing proposals with prototype evaluations.
+Great vendors **will** work with government, if we change expectations, by replacing proposals with prototype evaluations.
 --
 ### Prototypes > Proposals
 --
@@ -64,13 +65,13 @@ We ended up with 200+ submissions and the overall quality exceeded our expectati
 --
 <video controls><source src="https://github.com/18F/slides/blob/18f-pages/assets/video/UnitTestFail.mp4?raw=true" type="video/mp4">Your browser does not support the HTML video element.</video>
 ---
-## How can 18F improve
+## How 18F can improve
 
 * More automated tests
 
 * Require data-validation of hyperlinks instead of narratives for evidence
 
-* Create distributed technical evaluation team to increase speed and quality 
+* Create distributed technical evaluation teams to increase speed and quality 
 ---
 ## What comes next
 
