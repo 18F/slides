@@ -8,7 +8,7 @@ title: 18F and the Agile BPA
 ---
 ## Who we are + what we do
 --
-### Backstory
+## Backstory
 ![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/PIF%20-%20GSA%20-%2018F%20logos.png)
 --
 Our mission is to transform government from the inside out, **changing culture** by working with teams inside agencies who want to create great services for the public
@@ -32,16 +32,24 @@ We will accomplish our mission by:
 ### Shipping transformative culture change
 ---
 Core plumbing:
+
 * practices
 * processes
 * people
 ---
 ## Agile Delivery Services BPA
 ---
-### Backstory
+## Backstory
 Initial demand for 18F was greater than we had capacity to deliver on. 
 
-We knew we needed to partner with the private sector. Would vendors embrace our mission (design-centric, agile, open, and data-driven), or reject it by refusing to submit quotes or bid?
+We knew we needed to partner with the private sector. Would vendors embrace **how we work**, or reject it?
 ---
-# This is a paragraph
-There are many awesome things that you could put on a slide. Maybe one of those things is a paragraph. Just don't put too much. Nobody likes that.
+### Hypothesis
+
+Great vendors **will** work with government, if we raise expectations, by replacing proposals with prototype evaluations.
+--
+### Prototypes > Proposals
+--
+#### Code > Claims
+--
+### Results
