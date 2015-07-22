@@ -7,16 +7,16 @@ title: 18F and the Agile BPA
 ## Overview: 18F and the Agile Delivery Services BPA
 ### Noah Kunin and the 18F Consulting Team
 ---
-18F will transform how the **U.S. Government** builds and buys **digital services**.
+Our  will transform how the **U.S. Government** builds and buys **digital services**.
 ---
 Who we are + what we do
 --
 ### Backstory
-![](https://lh3.googleusercontent.com/_izP-SVxEwYJTkJ6n7KVwLXhflBjgOwO-qbWcvwUX7axqI7Tk22KVHRsRDmzkcRoH2uoOUidfNbWfMU=w2512-h1162-rw)
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/PIF%20-%20GSA%20-%2018F%20logos.png)
 --
 ### How we work 
 
-* always shipping <span style="width: 7%;">![](https://assets-cdn.github.com/images/icons/emoji/shipit.png)</span>
+* always shipping ![](https://assets-cdn.github.com/images/icons/emoji/shipit.png#shippingsqrl)
 * putting the needs of the public first
 * design-centric, agile, and data-driven
 * open by default
