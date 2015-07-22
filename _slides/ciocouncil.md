@@ -25,11 +25,11 @@ We will accomplish our mission by:
 ---
 # Delivery is the strategy
 ---
-Prototypes > Proposals
+### Prototypes > Proposals
 ---
-Services that are simple, beautiful, and easy to use
+### Services that are simple, beautiful, and easy to use
 ---
-Shipping transformative culture change
+### Shipping transformative culture change
 ---
 Core plumbing:
 * practices
