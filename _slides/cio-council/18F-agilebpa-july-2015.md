@@ -96,4 +96,9 @@ Learn more:
 ---
 ### Want a copy of these slides?
 
+Browser or mobile:
+https://pages.18f.gov/slides/cio-council/18F-agilebpa-july-2015/
+
+Code:
+https://github.com/18F/slides/tree/18f-pages/_slides/cio-council
 
