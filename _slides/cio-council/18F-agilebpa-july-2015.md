@@ -93,4 +93,7 @@ Learn more:
 
 [Coming Soon: The Agile Delivery Services Solicitation](https://18f.gsa.gov/2015/04/23/coming-soon-the-agile-delivery-services-soliciatation/)
 
+---
+### Want a copy of these slides?
+
 
