@@ -16,7 +16,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   height: 75px;
   z-index: 30;
   left: 10px;
-  bottom: 10px;
+  top: 10px;
   -webkit-user-select: none;
   background-image: url("images/logo.svg"); }
 
