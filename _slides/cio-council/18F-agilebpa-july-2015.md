@@ -87,7 +87,7 @@ We ended up with 200+ submissions and the overall quality exceeded our expectati
 Learn more:
 
 
-[The Agile Delivery BPA is (almost) here!](https://18f.gsa.gov/2015/06/15/agile-bpa-is-here/)
+[The Agile Delivery BPA is here!](https://18f.gsa.gov/2015/06/15/agile-bpa-is-here/)
 
 [Labor Category Descriptions for Agile Procurements](https://pages.18f.gov/agile-labor-categories/)
 
