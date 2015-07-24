@@ -1,3 +1,9 @@
+---
+layout: default
+path: pyohio
+title: Open Source Society
+---
+
 # Open Source Society
 
 ## Catherine Devlin
@@ -14,6 +20,8 @@ part of this change.
 ---
 
 # Handbasket
+
+[!Nice handbasket.](https://fisher.osu.edu/blogs/gradlife/files/Longaberger.jpg)
 
 (stats on human well-being)
 
