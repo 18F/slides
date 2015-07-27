@@ -12,6 +12,17 @@ title: Open Source Society
 
 ---
 
+# c'est moi
+
+- Chem eng, DBA (1999), Pythonista (2004?)
+- Minnesotan expat in Dayton
+- PyOhio chair 2008, 2009
+- Your tax dollars at work!
+
+---
+
+# Premise
+
 FOSS will change the world.
 
 Software will be the least important
@@ -21,15 +32,21 @@ part of this change.
 
 # Handbasket
 
-[!Nice handbasket.](https://fisher.osu.edu/blogs/gradlife/files/Longaberger.jpg)
+![Giant Longaberger basket](https://fisher.osu.edu/blogs/gradlife/files/Longaberger.jpg)
 
 (stats on human well-being)
 
 ---
 
+![Graph of decreasing global poverty](http://cdn.static-economist.com/sites/default/files/imagecache/full-width/images/2012/02/blogs/graphic-detail/20120303_WOC674.gif)
+
+Source: [The Economist](http://www.economist.com/blogs/graphicdetail/2012/02/daily-chart-20)
+
+---
+
 # Scale
 
-- Bands
+- Bands ([Dunbar's Number](https://en.wikipedia.org/wiki/Dunbar%27s_number) ~ 150)
 - Tribes
 - Kingdoms
 - States
@@ -51,9 +68,15 @@ Corporations, organizations, ...
 
 ---
 
-- Catch-22
-- Dilbert
-- Confidence in government
+![Catch-22 cover](http://d28hgpri8am2if.cloudfront.net/book_images/cvr9781451626650_9781451626650_hr.jpg)
+
+---
+
+[!Dilbert](http://www.glaad.org/sites/default/files/dilbert%20dogbert.jpg)
+
+---
+
+[!Branches of U.S. Government](https://gsa-cmp-fileupload.s3.amazonaws.com/USA_Government_Branches_Infographic.png)
 
 ---
 
@@ -71,7 +94,7 @@ Corporations, organizations, ...
 
 ---
 
-# Weaving
+[!Power looms](https://upload.wikimedia.org/wikipedia/commons/d/dc/Powerloom_weaving_in_1835.jpg)
 
 ---
 
@@ -110,13 +133,24 @@ Corporations, organizations, ...
 
 ---
 
-# Openness
+1. Non-ownership
+2. Humility
+3. Porous Boundaries
+  more: insider/outsider thinking
+4. Critique
+5. Diversity
+6. Growth
+7. Interoperability
+  7b. Small sharp teams
+8. FOSS Conquers The Law
 
-## Non-ownership
+
+
+# Non-ownership
 
 ---
 
-# Ownership
+## Ownership
 
 - Secrecy
 
@@ -134,14 +168,14 @@ Corporations, organizations, ...
 
 ---
 
-# Openness
+## Openness can bring...
 
 - Commercial success
 - Trust
 
 ---
 
-# Tools
+## Tools of Non-ownership
 
 - Version control
 - GitHub
@@ -149,6 +183,8 @@ Corporations, organizations, ...
 ---
 
 # FOIA
+
+[OpenFOIA](https://open.foia.gov/)
 
 ## FOAI to all
 
@@ -168,7 +204,14 @@ Corporations, organizations, ...
 
 ---
 
-# Humility
+1. Non-ownership
+2. **Humility**
+3. Porous Boundaries
+4. Critique
+5. Diversity
+6. Growth
+7. Interfaces
+8. Encapsulation
 
 ---
 
@@ -371,6 +414,12 @@ Big promises --> big Salesmanship
 
 > “In the event that the Tenant shall fail to make the payment of rent when due or shall fail to perform in accordance with the covenants and conditions herein set forth, said sum shall be retained by the Landlord and applied towards Landlord’s damages resulting from Tenant’s default.”  [source]( http://www.themckenziefirm.com/incomprehensible-legal-documents/#sthash.sNOH0t0u.dpuf)
 
+Industrialization failed to update it!
+
+---
+
+Industrial society failed to modernize it!
+
 ---
 
 > Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -383,7 +432,7 @@ Big promises --> big Salesmanship
 
 > THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-## Small sharp *teams*
+Medieval - on the inside!
 
 ---
 
@@ -398,6 +447,14 @@ Big promises --> big Salesmanship
 - Encapsulation in state laws
 - Templating
 - Laws as JSON
+
+Answer questions mechanically!
+
+---
+
+http://boingboing.net/2015/07/24/georgia-suing-carl-malamud-ca.html
+
+https://www.civicquarterly.com/article/defragmenting-democracy/
 
 ---
 
