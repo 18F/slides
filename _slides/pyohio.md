@@ -17,7 +17,14 @@ title: Open Source Society
 - Chem eng, DBA (1999), Pythonista (2004?)
 - Minnesotan expat in Dayton
 - PyOhio chair 2008, 2009
-- Your tax dollars at work!
+
+---
+
+# 18F: Your tax dollars at work!
+
+CM, Shahank, Adam, Yuda, Christine, Theresa, Yoz, and more...
+
+## Also: US Digital Service
 
 ---
 
@@ -33,8 +40,6 @@ part of this change.
 # Handbasket
 
 ![Giant Longaberger basket](https://fisher.osu.edu/blogs/gradlife/files/Longaberger.jpg)
-
-(stats on human well-being)
 
 ---
 
@@ -54,6 +59,10 @@ Source: [The Economist](http://www.economist.com/blogs/graphicdetail/2012/02/dai
 
 ---
 
+Yung-Yu Chen, PyCon Taiwan
+
+---
+
 - Hierarchy
 - Regulations
 - Marketplace
@@ -68,15 +77,15 @@ Corporations, organizations, ...
 
 ---
 
-![Catch-22 cover](http://d28hgpri8am2if.cloudfront.net/book_images/cvr9781451626650_9781451626650_hr.jpg)
+<img src="http://d28hgpri8am2if.cloudfront.net/book_images/cvr9781451626650_9781451626650_hr.jpg" height="400" />
 
 ---
 
-[!Dilbert](http://www.glaad.org/sites/default/files/dilbert%20dogbert.jpg)
+![Dilbert](http://www.glaad.org/sites/default/files/dilbert%20dogbert.jpg)
 
 ---
 
-[!Branches of U.S. Government](https://gsa-cmp-fileupload.s3.amazonaws.com/USA_Government_Branches_Infographic.png)
+![Branches of U.S. Government](https://gsa-cmp-fileupload.s3.amazonaws.com/USA_Government_Branches_Infographic.png)
 
 ---
 
@@ -88,13 +97,7 @@ Corporations, organizations, ...
 
 ---
 
-## Social change
-
-## Ideas
-
----
-
-[!Power looms](https://upload.wikimedia.org/wikipedia/commons/d/dc/Powerloom_weaving_in_1835.jpg)
+![Power looms](https://upload.wikimedia.org/wikipedia/commons/d/dc/Powerloom_weaving_in_1835.jpg)
 
 ---
 
@@ -133,20 +136,14 @@ Corporations, organizations, ...
 
 ---
 
-1. Non-ownership
+1. **Non-ownership** <<<
 2. Humility
-3. Porous Boundaries
-  more: insider/outsider thinking
+3. Soft Boundaries
 4. Critique
 5. Diversity
 6. Growth
-7. Interoperability
-  7b. Small sharp teams
-8. FOSS Conquers The Law
-
-
-
-# Non-ownership
+7. Interfaces
+8. Encapsulation
 
 ---
 
@@ -162,9 +159,9 @@ Corporations, organizations, ...
 
 ## Credibility
 
-"Secret Recipe"
+<img src="http://previews.123rf.com/images/squarelogo/squarelogo1207/squarelogo120700055/14651230-Vintage-Top-Secret-Recipe-Stock-Vector-shield.jpg" height="200" alt="Secret Recipe" />
 
-"Patented Formula"
+<img src="http://thompsonhall.com/redesign/wp-content/uploads/2012/03/patent.png" height="200" alt="Patented" />
 
 ---
 
@@ -182,31 +179,35 @@ Corporations, organizations, ...
 
 ---
 
-# FOIA
+[prose.io](http://prose.io)
 
-[OpenFOIA](https://open.foia.gov/)
-
-## FOAI to all
+[Music to recipes](http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding)
 
 ---
 
-# Open by Default
+## Closedness in government
 
-[18F policy](https://github.com/18F/open-source-policy/blob/master/policy.md)
-
-[USDS Playbook](https://playbook.cio.gov/)
-
-- Other open government
+[PublicResource.org](http://www.abajournal.com/magazine/article/who_owns_the_law_technology_reignites_the_war_over_just_how_public_document)
 
 ---
 
-# data.gov
+## Openness in government
+
+[18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md)
+
+[USDS Playbook: Default to Open](https://playbook.cio.gov/)
+
+---
+
+[data.gov](http://www.data.gov/)
+
+FOIA [Release to One, Release to All](http://www.pogo.org/blog/2015/07/foia-release-one-to-all.html?referrer=https://www.google.com/)
 
 ---
 
 1. Non-ownership
-2. **Humility**
-3. Porous Boundaries
+2. **Humility** <<<
+3. Soft Boundaries
 4. Critique
 5. Diversity
 6. Growth
@@ -217,33 +218,29 @@ Corporations, organizations, ...
 
 ## Optics
 
-- Emotional
+- Emotion
 
 - Salesmanship
 
-- Politics, religion, ...
+- Beyond business  
 
 ---
 
 ## Humility
 
-- Shows stuff
+- No sweeping under rug
 
-- MVP, fail fast
+- Seek & acknowledge help
+
+- MVP
+
+- Fail fast
 
 - Iterate: humility about future
 
 ---
 
-> Hello, Pythonistas!
-
-> Ohio had a good, strong representation at PyCon this year.  One thing we agreed on is that The Time Has Come for PyOhio (or perhaps OhPyO, let's figure that out).  Imagine a daylong miniconference bringing people from across the state and beyond.  Let's do it!
-
-> Pardon me for splicing you into our conversation like this, but here are some of the thoughts we've been kicking around so far.
-
-(March 19, 2008)
-
----
+## [PyOhio 2008](https://mail.python.org/pipermail/centraloh/2008-March/000082.html)
 
 - public library
 - bare-bones
@@ -251,35 +248,37 @@ Corporations, organizations, ...
 
 ---
 
-## humility is...
-
-- Accepting help
-
-- Sharing credit
-
----
-
-# Porous boundaries
+1. Non-ownership
+2. Humility
+3. **Soft Boundaries** <<<
+4. Critique
+5. Diversity
+6. Growth
+7. Interfaces
+8. Encapsulation
 
 ---
 
 ## Opposite of
 
-- Not-invented-here
+- Insiders / outsiders
+
+- [Groupthink](http://www.psysr.org/about/pubs_resources/groupthink%20overview.htm)
 
 - Hoarding credit
 
----
-
-## Porous boundaries
-
-- Insiders / outsiders
-
-- Credit where due
+- Not-invented-here
 
 ---
 
-# Critique
+1. Non-ownership
+2. Humility
+3. Soft Boundaries
+4. **Critique** <<<
+5. Diversity
+6. Growth
+7. Interfaces
+8. Encapsulation
 
 ---
 
@@ -309,7 +308,14 @@ Part of iteration
 
 ---
 
-# Diversity
+1. Non-ownership
+2. Humility
+3. Soft Boundaries
+4. Critique
+5. **Diversity** <<<
+6. Growth
+7. Interfaces
+8. Encapsulation
 
 ---
 
@@ -317,25 +323,65 @@ Part of iteration
 
 > If you are a woman in Open Source, you will eventually give a talk about being a woman in Open Source.
 
-> - Emma Jane Hogbi, Gabrielle Roth
+> - Emma Jane Hogbin, Gabrielle Roth
 
 ---
 
 ## Critique
 
-"We did not intend to write this bug"
+![WONTFIX, not malicious](not_malicious.png)
+
+![WONTFIX, not only](not_only.png)
 
 ---
 
-## More failing Tests
+## Rich test suite
 
-- Racial
-- Disability
-- Age
+  $ ls tests/diversity/
+  test_age.py     		test_gsm.py
+  test_background.py	test_immigrant.py
+  test_disability.py	test_racial.py
+  test_gender.py   		test_religion.py
 
 ---
 
-# Scale
+Location, location, location
+
+![YWCA programming class](http://2.bp.blogspot.com/-jszacb4DvgE/VaBJTqfCABI/AAAAAAAADAE/H-TpBttobNk/s1600/ywca.jpg)
+
+---
+
+![Handicap icon with laptop](disability.png)
+
+---
+
+# Nóirín Plunkett, July 29, 2015
+
+![Nóirín Plunkett](https://adainitiative.org/wp-content/uploads/2015/07/5733367587_39646fa489_b-300x200.jpg)
+
+- Apache httpd contributor, board member
+- Documentation, conference organization
+- Digital Rights Ireland
+- Ada Initiative
+
+---
+
+1. Non-ownership
+2. Humility
+3. Soft Boundaries
+4. Critique
+5. Diversity
+6. **Growth** <<<
+7. Interfaces
+8. Encapsulation
+
+---
+
+## Gatekeeping
+
+![Drill instructor](https://www.flickr.com/photos/tylerbolken/13384711585/in/photolist-moLNZz-moLBqn-moLh1T-moL4XK-moLH96-moL9rp-moLwtt-moNaBf-moMM5w-moM2yc-6ncaez-97qsCn-97qq9D-5DCbzi-cn4Zhq-moLebV-moNcyS-axW9cA-nGJkff-axTrNK-axTsvB-axTrVa-9CdiAh-9ozQrj-9h6wJE-ofVmzu-8vEXwC-cn4YmW-9h6wkq-9sMWfM-9Gte88-9h6wFE-8qPEKE-9k6zaz-5DBByk-9k9PUj-9k6Kd6-9k6JUV-9bex21)
+
+<sup><sub>[Source](https://www.flickr.com/photos/tylerbolken/13384711585/in/photolist-moLNZz-moLBqn-moLh1T-moL4XK-moLH96-moL9rp-moLwtt-moNaBf-moMM5w-moM2yc-6ncaez-97qsCn-97qq9D-5DCbzi-cn4Zhq-moLebV-moNcyS-axW9cA-nGJkff-axTrNK-axTsvB-axTrVa-9CdiAh-9ozQrj-9h6wJE-ofVmzu-8vEXwC-cn4YmW-9h6wkq-9sMWfM-9Gte88-9h6wFE-8qPEKE-9k6zaz-5DBByk-9k9PUj-9k6Kd6-9k6JUV-9bex21)</sub></sup>
 
 ---
 
@@ -349,7 +395,7 @@ Part of iteration
 
 ---
 
-## Growth = richness
+## Growth == richness
 
 ---
 
@@ -359,37 +405,52 @@ Smooth the on-ramps!
 
 ---
 
-- Groups
+- Organizations
 - Documentation
-- courses
-- Tools [https://try.jupyter.org/]
+- [Courses](https://wiki.python.org/moin/BeginnersGuide)
+- Tools: [Try Jupyter](https://try.jupyter.org/)
 
 ---
 
-# Interoperability
+1. Non-ownership
+2. Humility
+3. Soft Boundaries
+4. Critique
+5. Diversity
+6. Growth
+7. **Interfaces** <<<
+8. Encapsulation
 
 ---
 
 ## Proprietary over-scoping
 
-Big promises --> big Salesmanship
+Big Promises == Big Sales
+
+No need for interfaces!
 
 ---
 
 ## Small sharp Tools
 
-... that *interact*
+... that *interface well*
 
 - No control
 - No prediction
 
+    history | awk '{a[$2]++}END{for(i in a)
+      {print a[i] " " i}}' | sort -rn | head
+
+<sub><sup>[source](http://www.commandlinefu.com/commands/view/604/list-of-commands-you-use-most-often#comment)</sup></sub>
+
 ---
 
-- Documentation culture & tools
+API Design
+
+Documentation
+
   - Markdown, ReStructured Text
   - Sphinx
-- APIs
-  - Design
 
 ---
 
@@ -408,17 +469,39 @@ Big promises --> big Salesmanship
 
 ---
 
-# Law
+## Traditional Governance
+
+- Hierarchy
+- Regulations
+- Marketplace
+- Mad amoebic demon-gods
+
+---
+
+## Interfacey Governance
+
+- Distributed
+- Level
+- Human
+- Fail fast
+- Vote with feet
+
+---
+
+1. Non-ownership
+2. Humility
+3. Soft Boundaries
+4. Critique
+5. Diversity
+6. Growth
+7. Interfaces
+8. **Encapsulation** <<<
 
 ---
 
 > “In the event that the Tenant shall fail to make the payment of rent when due or shall fail to perform in accordance with the covenants and conditions herein set forth, said sum shall be retained by the Landlord and applied towards Landlord’s damages resulting from Tenant’s default.”  [source]( http://www.themckenziefirm.com/incomprehensible-legal-documents/#sthash.sNOH0t0u.dpuf)
 
 Industrialization failed to update it!
-
----
-
-Industrial society failed to modernize it!
 
 ---
 
@@ -444,47 +527,17 @@ Medieval - on the inside!
 
 ## Imagine...
 
-- Encapsulation in state laws
-- Templating
-- Laws as JSON
-
-Answer questions mechanically!
+[modern clarity](http://www.consumerfinance.gov/eregulations/1005-10/2014-20681#1005-10-a)
 
 ---
 
-http://boingboing.net/2015/07/24/georgia-suing-carl-malamud-ca.html
-
-https://www.civicquarterly.com/article/defragmenting-democracy/
+> Governing law: BSD Nonprofit Tax Code v3.0
 
 ---
 
-# Governance
+[Free Law movement](https://www.civicquarterly.com/article/defragmenting-democracy/)
 
----
-
-## Traditional
-
-- Hierarchy
-- Regulations
-- Marketplace
-- Mad amoebic demon-gods
-
----
-
-## FOSSish
-
-- Distributed
-- Level
-- Human
-- Fail fast
-- Vote with feet
-
----
-
-## Standards
-
-- Standards bodies
-- Organic appearance
+[Digitized laws](http://www.federaltimes.com/story/government/it/2015/07/28/digitizing-lawmaking-regulations/30785971/
 
 ---
 
@@ -505,3 +558,11 @@ part of this change.
 ---
 
 # Laboratory of cooperation
+
+Experiments are ongoing!
+
+---
+
+18f.gsa.gov
+
+catherinedevlin@blogspot.com
