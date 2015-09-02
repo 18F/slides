@@ -78,6 +78,7 @@ Markdown is designed so that text can be easily converted to HTML.
 --
 This slide deck is [written in Markdown](https://github.com/18F/slides/edit/18f-pages/_slides/github-basics.md)!
 Wikipedia has [information on Markdown syntax](https://en.wikipedia.org/wiki/Markdown#Example).
+This is a new sentence!
 ---
 # Practice
 [Link for practice](https://pages.18f.gov/hourofcode/)
