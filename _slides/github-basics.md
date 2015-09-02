@@ -5,14 +5,13 @@ title: 18F and the Agile BPA
 ---
 ## GitHub Basics
 ### Will Slack | 18F Business Strategy
-#### Credit: Gerg Boone, Melody Kramer, Jeff Maher
+##### Credits: Greg Boone, Melody Kramer, Jeff Maher (VA)
 ---
 ## Agenda for today
---
-## Concepts
-## Practice
-[Link for practice](https://pages.18f.gov/hourofcode/)
-## Reference Materials
+* Concepts
+* Practice
+* * [Link for practice](https://pages.18f.gov/hourofcode/)
+* Reference Materials
 ---
 # Concepts
 ---
@@ -20,7 +19,8 @@ title: 18F and the Agile BPA
 --
 Issues with "draft" or "final" documents?
 --
-Version Control
+####Version Control
+
 * Multiple edits from multiple parties
 * Ability to go back in time (finding bugs)
 ---
@@ -63,7 +63,7 @@ Forks are copies of the repo that live on someone else's property, with their ow
 ---
 ## Pull Requests
 --
-* You have a spearate branch or fork with your change.
+* You have a separate branch or fork with your change.
 * You are *requesting* your change to be *pulled* into the main branch.
 * When that happens, it is called a *merge*.
 ---
