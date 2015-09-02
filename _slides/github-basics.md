@@ -1,7 +1,7 @@
 ---
 layout: default
 path: sample
-title: 18F and the Agile BPA
+title: GitHub Basics
 ---
 ## GitHub Basics
 ### Will Slack | 18F Business Strategy
