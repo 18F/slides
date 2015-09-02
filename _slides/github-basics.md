@@ -10,7 +10,7 @@ title: 18F and the Agile BPA
 ## Agenda for today
 * Concepts
 * Practice
-* * [Link for practice](https://pages.18f.gov/hourofcode/)
+   * [Link for practice](https://pages.18f.gov/hourofcode/)
 * Reference Materials
 ---
 # Concepts
