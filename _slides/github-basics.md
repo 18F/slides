@@ -5,7 +5,7 @@ title: GitHub Basics
 ---
 ## GitHub Basics
 ### Will Slack | 18F Business Strategy
-##### Credits: Greg Boone, Melody Kramer, Jeff Maher (VA)
+##### Credits: Greg Boone, Melody Kramer, Steph Plageman, Jeff Maher (VA)
 ---
 ## Agenda for today
 * Concepts
@@ -64,8 +64,11 @@ Forks are copies of the repo that live on someone else's property, with their ow
 ## Pull Requests
 --
 * You have a separate branch or fork with your change.
-* You are *requesting* your change to be *pulled* into the main branch.
+* You are *requesting* that commits from one place be *pulled* into the main branch.
 * When that happens, it is called a *merge*.
+--
+* You can continue to make edits in the branch until the pull request is merged.
+* This is an easy way to make sure that someone else reviews code changes, and provides a permanent record of the review.
 ---
 ## Issue
 --
@@ -81,6 +84,38 @@ Wikipedia has [information on Markdown syntax](https://en.wikipedia.org/wiki/Mar
 ---
 # Practice
 [Link for practice](https://pages.18f.gov/hourofcode/)
+---
+##Make an Issue!
+Try it yourself & go "down" to see the step-by-step workflow.
+Starting location: [https://github.com/18F/hourofcode](https://github.com/18F/hourofcode)
+--
+![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Issue1.png
+--
+![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Issue2.png
+--
+![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Issue3.png
+--
+![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Issue4.png
+---
+##Make your own repo and markdown file!
+Try it yourself & go "down" to see the step-by-step workflow.
+Starting location: [https://github.com](https://github.com)
+--
+![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make1.png
+--
+![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make2.png
+--
+![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make3.png
+--
+![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make4.png
+--
+![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make5.png
+--
+![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make6.png
+--
+![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make7.png
+--
+![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make8.png
 ---
 # Reference Materials
 --
