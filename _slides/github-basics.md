@@ -83,7 +83,11 @@ This slide deck is [written in Markdown](https://github.com/18F/slides/edit/18f-
 Wikipedia has [information on Markdown syntax](https://en.wikipedia.org/wiki/Markdown#Example).
 ---
 # Practice
-[Link for practice](https://pages.18f.gov/hourofcode/)
+* [Link for practice activity on an 18F Repo](https://pages.18f.gov/hourofcode/)
+* Three activities and screenshot guides follow for
+  * Making an issue
+  * Making your own test repository and a file in it.
+  * Editing your file and creating a pull request
 ---
 ##Make an Issue!
 Try it yourself & go "down" to see the step-by-step workflow.
