@@ -89,33 +89,33 @@ Wikipedia has [information on Markdown syntax](https://en.wikipedia.org/wiki/Mar
 Try it yourself & go "down" to see the step-by-step workflow.
 Starting location: [https://github.com/18F/hourofcode](https://github.com/18F/hourofcode)
 --
-![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Issue1.png
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Issue1.png)
 --
-![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Issue2.png
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Issue2.png)
 --
-![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Issue3.png
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Issue3.png)
 --
-![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Issue4.png
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Issue4.png)
 ---
 ##Make your own repo and markdown file!
 Try it yourself & go "down" to see the step-by-step workflow.
 Starting location: [https://github.com](https://github.com)
 --
-![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make1.png
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make1.png)
 --
-![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make2.png
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make2.png)
 --
-![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make3.png
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make3.png)
 --
-![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make4.png
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make4.png)
 --
-![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make5.png
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make5.png)
 --
-![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make6.png
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make6.png)
 --
-![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make7.png
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make7.png)
 --
-![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make8.png
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make8.png)
 ---
 # Reference Materials
 --
