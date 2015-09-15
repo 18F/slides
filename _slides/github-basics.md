@@ -5,7 +5,7 @@ title: GitHub Basics
 ---
 ## GitHub Basics
 ### Will Slack | 18F Business Strategy
-##### Credits: Greg Boone, Melody Kramer, Jeff Maher (VA)
+##### Credits: Greg Boone, Melody Kramer, Steph Plageman, Jeff Maher (VA)
 ---
 ## Agenda for today
 * Concepts
