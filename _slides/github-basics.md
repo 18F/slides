@@ -8,7 +8,7 @@ title: GitHub Basics
 ##### Credits: Greg Boone, Melody Kramer, Steph Plageman, Jeff Maher (VA)
 ---
 ## Agenda for today
-* Concepts
+* Concepts 
 * Practice
    * [Link for practice](https://pages.18f.gov/hourofcode/)
 * Reference Materials
@@ -19,10 +19,14 @@ title: GitHub Basics
 ---
 ## Git
 --
+*Web- Based Interface 
+*Allows collaboration without confusion 
+*Largest host of source code in the world 
+
+###What Does it Do? 
 Issues with "draft" or "final" documents?
 --
 ####Version Control
-
 * Multiple edits from multiple parties
 * Ability to go back in time (finding bugs)
 --
@@ -44,7 +48,7 @@ You can have your own Github stuff under your username. Example: [Will's GitHub 
 ---
 ## Repository (or Repo)
 --
-A repo is a folder with version control you view on GitHub. It lives in an an org or profile.
+A repo is a folder with version control you view on GitHub within an an org or profile.
 --
 Compare [this link](https://github.com/18F/18f.gsa.gov) with the below image
 ![](https://18f.gsa.gov/assets/blog/github-tutorial/w_screenshot2.png)
@@ -57,9 +61,11 @@ Git remembers not only the status of everything in the repo, but also your speci
 ---
 ## Branch
 --
+The main project branch is ususally called "master."
+
 Branches are little version sandboxes in the repo for other people working on the project to prepare contributions without interfering with the main project.
 --
-The main project branch is ususally called "master."
+
 ---
 ## Fork
 --
@@ -78,6 +84,12 @@ Forks are copies of the repo that live on someone else's property, with their ow
 --
 These are conversations that GitHub associated with a repo.
 Example issues page: [18F/hourofcode](https://github.com/18F/hourofcode/issues)
+
+---
+## Summary 
+Create Repo>Make a Commit>Crate a branch>Fork other projects>Pull request>Merge
+
+Remember- All repos require a README file
 ---
 ## Markdown
 --
