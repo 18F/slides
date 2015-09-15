@@ -103,6 +103,8 @@ Starting location: [https://github.com](https://github.com)
 --
 ![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make1.png)
 --
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make1andhalf.png)
+--
 ![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make2.png)
 --
 ![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make3.png)
@@ -116,6 +118,32 @@ Starting location: [https://github.com](https://github.com)
 ![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make7.png)
 --
 ![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Make8.png)
+---
+##Edit your file and make a pull request
+Try it yourself & go "down" to see the step-by-step workflow.
+Starting location: Your test repo
+--
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Edit1.png)
+--
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Edit2.png)
+--
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Edit3.png)
+--
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Edit4.png)
+--
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Edit5.png)
+--
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Edit6.png)
+--
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Edit7.png)
+--
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Edit8.png)
+--
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Edit9.png)
+--
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Edit10.png)
+--
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Edit11.png)
 ---
 # Reference Materials
 --
