@@ -12,6 +12,8 @@ title: GitHub Basics
 * Practice
    * [Link for practice](https://pages.18f.gov/hourofcode/)
 * Reference Materials
+Important note: the slides are navigated both Left/Right and Up/Down (see bottom right of screen)
+Link to slides: [https://pages.18f.gov/slides/github-basics](https://pages.18f.gov/slides/github-basics)
 ---
 # Concepts
 ---
@@ -23,6 +25,8 @@ Issues with "draft" or "final" documents?
 
 * Multiple edits from multiple parties
 * Ability to go back in time (finding bugs)
+--
+####Git is a program that allows you to do version control.
 ---
 ## GitHub
 --
@@ -83,7 +87,11 @@ This slide deck is [written in Markdown](https://github.com/18F/slides/edit/18f-
 Wikipedia has [information on Markdown syntax](https://en.wikipedia.org/wiki/Markdown#Example).
 ---
 # Practice
-[Link for practice](https://pages.18f.gov/hourofcode/)
+* [Link for practice activity on an 18F Repo](https://pages.18f.gov/hourofcode/)
+* Three activities and screenshot guides follow for
+  * Making an issue
+  * Making your own test repository and a file in it.
+  * Editing your file and creating a pull request
 ---
 ##Make an Issue!
 Try it yourself & go "down" to see the step-by-step workflow.
