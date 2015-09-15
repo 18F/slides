@@ -123,6 +123,8 @@ Starting location: [https://github.com](https://github.com)
 Try it yourself & go "down" to see the step-by-step workflow.
 Starting location: Your test repo
 --
+![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Edit0.png)
+--
 ![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Edit1.png)
 --
 ![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Edit2.png)
