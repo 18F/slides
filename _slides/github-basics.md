@@ -94,7 +94,7 @@ Starting location: [https://github.com/18F/hourofcode](https://github.com/18F/ho
 --
 ![]https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Issue4.png
 ---
-##Make an your own repo and markdown file!
+##Make your own repo and markdown file!
 Try it yourself & go "down" to see the step-by-step workflow.
 Starting location: [https://github.com](https://github.com)
 --
