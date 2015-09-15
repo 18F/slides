@@ -64,8 +64,11 @@ Forks are copies of the repo that live on someone else's property, with their ow
 ## Pull Requests
 --
 * You have a separate branch or fork with your change.
-* You are *requesting* your change to be *pulled* into the main branch.
+* You are *requesting* that commits from one place be *pulled* into the main branch.
 * When that happens, it is called a *merge*.
+--
+* You can continue to make edits in the branch until the pull request is merged.
+* This is an easy way to make sure that someone else reviews code changes, and provides a permanent record of the review.
 ---
 ## Issue
 --
