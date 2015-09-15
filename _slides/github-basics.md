@@ -12,6 +12,7 @@ title: GitHub Basics
 * Practice
    * [Link for practice](https://pages.18f.gov/hourofcode/)
 * Reference Materials
+
 Important note: the slides are navigated both Left/Right and Up/Down (see bottom right of screen)
 Link to slides: [https://pages.18f.gov/slides/github-basics](https://pages.18f.gov/slides/github-basics)
 ---
