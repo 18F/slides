@@ -13,6 +13,7 @@ title: GitHub Basics
    * [Link for practice](https://pages.18f.gov/hourofcode/)
 * Reference Materials
 Important note: the slides are navigated both Left/Right and Up/Down (see bottom right of screen)
+Link to slides: [https://pages.18f.gov/slides/github-basics](https://pages.18f.gov/slides/github-basics)
 ---
 # Concepts
 ---
@@ -24,6 +25,8 @@ Issues with "draft" or "final" documents?
 
 * Multiple edits from multiple parties
 * Ability to go back in time (finding bugs)
+--
+####Git is a program that allows you to do version control.
 ---
 ## GitHub
 --
