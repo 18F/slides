@@ -38,7 +38,7 @@ Platform for the rest of the concepts today
 ---
 ## Org
 --
-These are groups in Github. Examples: [18F](github.com/18F), [WhiteHouse](github.com/whitehouse)
+These are groups in Github. Examples: [18F](https://github.com/18F), [WhiteHouse](https://github.com/whitehouse)
 --
 You can have your own Github stuff under your username. Example: [Will's GitHub Profile](https://github.com/wslack?tab=repositories)
 ---
@@ -59,7 +59,7 @@ Git remembers not only the status of everything in the repo, but also your speci
 --
 Branches are little version sandboxes in the repo for other people working on the project to prepare contributions without interfering with the main project.
 --
-The main project branch is ususally called "master."
+The main project branch is usually called "master."
 ---
 ## Fork
 --
@@ -87,11 +87,12 @@ This slide deck is [written in Markdown](https://github.com/18F/slides/edit/18f-
 Wikipedia has [information on Markdown syntax](https://en.wikipedia.org/wiki/Markdown#Example).
 ---
 # Practice
-* [Link for practice activity on an 18F Repo](https://pages.18f.gov/hourofcode/)
 * Three activities and screenshot guides follow for
   * Making an issue
   * Making your own test repository and a file in it.
   * Editing your file and creating a pull request
+* [Link for practice activity on an 18F Repo](https://pages.18f.gov/hourofcode/)
+
 ---
 ##Make an Issue!
 Try it yourself & go "down" to see the step-by-step workflow.
