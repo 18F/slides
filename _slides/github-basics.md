@@ -76,7 +76,9 @@ Forks are copies of the repo that live on someone else's property, with their ow
 ---
 ## Issue
 --
-These are conversations that GitHub associated with a repo.
+These are conversations on GitHub, associated with a repo.
+Used for the public to file ideas, comments, or suggestions.
+--
 Example issues page: [18F/hourofcode](https://github.com/18F/hourofcode/issues)
 ---
 ## Markdown
