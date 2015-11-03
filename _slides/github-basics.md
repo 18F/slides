@@ -53,7 +53,7 @@ Compare [this link](https://github.com/18F/18f.gsa.gov) with the below image
 --
 A commit is like saving a new version, but smarter.
 --
-Git remembers not only the status of everything in the repo, but also your specific change
+Git remembers not only the status of everything in the repo, but also your specific changes
 ---
 ## Branch
 --
