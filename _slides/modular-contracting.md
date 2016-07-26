@@ -3,9 +3,12 @@ path: modular-contracting
 layout: default
 title: Modular Contracting
 ---
+
 # MODULAR CONTRACTING
 ## V. David Zvenyach
+
 ---
+
 # Agenda
 
 * What is Modular Contracting?
@@ -14,7 +17,9 @@ title: Modular Contracting
 * How do you _do_ it effectively?
 
 ---
+
 ## What is modular contracting?
+
 --
 ### Legal definition #1
 "Modular contracting" means use of one or more contracts to acquire information technology systems in successive, interoperable increments. ~~ FAR 39.002
@@ -168,5 +173,3 @@ title: Modular Contracting
 3. humility
 ---
 # Thanks!
-
----
