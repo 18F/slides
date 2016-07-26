@@ -6,13 +6,12 @@ description: > # this means to ignore newlines until "baseurl:"
   Slide decks for 18F [Consulting]!
 
 baseurl: "/slides"
-url: "https://18f.github.io"
+url: "https://pages.18f.gov/slides/"
 
 # Build settings
-markdown: kramdown
-markdown_ext: ignoreme
+markdown: redcarpet
 
 collections:
-    slides:
-        output: true
-        permalink: "/:path/"
+  slides:
+    output: true
+    permalink: "/:path/"
