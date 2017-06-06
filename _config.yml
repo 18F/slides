@@ -1,12 +1,12 @@
 # Site settings
-title: 18FC Slides
+title: 18F Slides
 email: vladlen.zvenyach@gsa.gov
 
 description: > # this means to ignore newlines until "baseurl:"
-  Slide decks for 18F [Consulting]!
+  Slide decks for 18F and TTS!
 
 baseurl: "/slides"
-url: "https://pages.18f.gov/slides/"
+url: "https://slides.18f.gov"
 
 # Build settings
 markdown: redcarpet
