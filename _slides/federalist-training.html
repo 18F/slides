@@ -12,9 +12,27 @@ title: Federalist Training
 * Reference Materials
 
 * The slides are navigated both Left/Right and Up/Down (see bottom right of screen)
-* Link to slides: [https://slides.18f.gov/github-basics/#/](https://slides.18f.gov/github-basics/#/)
+* Link to slides: [https://slides.18f.gov/github-basics/#/](https://slides.18f.gov/federalist-training/#/)
 ---
 # Concepts
+---
+## The Problem
+--
+#### Compliance is hard
+
+* A basic .gov page can cost $75000 - $150000 to certify as compliant.
+* Every piece of complexity makes compliance more difficult.
+--
+#### Federalist protects hosting
+Users can't access the build or hosting processes
+You can only mess with your own site's content.
+--
+#### The Proxy
+* This loads the content from S3 at a URL like https://federalist-proxy.app.cloud.gov/site/18f/federalist-modern-team-template/
+* It also adds headers for security
+--
+#### The Content Delivery Service
+* This puts all of the content on a custom URL like https://federalist-modern-team-template.18f.gov/
 ---
 ## Federalist Components
 --
