@@ -8,6 +8,7 @@ title: Federalist Training
 ---
 ## Agenda for today
 * Concepts
+* Federalist Screens
 * Practice
 * Reference Materials
 
@@ -19,55 +20,115 @@ title: Federalist Training
 ## The Problem
 --
 #### Compliance is hard
-
 * A basic .gov page can cost $75000 - $150000 to certify as compliant.
 * Every piece of complexity makes compliance more difficult.
 --
+#### Static sites are harder to attack
+* There's no server to "take over" or "hack," unlike with a dynamic web server
+* Instead, there are only files to be downloaded.
+--
 #### Federalist protects hosting
-Users can't access the build or hosting processes
-You can only mess with your own site's content.
---
-#### The Proxy
-* This loads the content from S3 at a URL like https://federalist-proxy.app.cloud.gov/site/18f/federalist-modern-team-template/
-* It also adds headers for security
---
-#### The Content Delivery Service
-* This puts all of the content on a custom URL like https://federalist-modern-team-template.18f.gov/
+* You don't have direct access to your website
+* You can change only your site's content.
 ---
 ## Federalist Components
 --
+#### GitHub
+* This is where you change your web content!
+* When you make a change on GitHub, GitHub sends a "webhook" to Federalist to start the build process.
+--
 #### The Builder
-
-* This loads your GitHub content then runs a build process to generate web pages
+* This loads your web content off GitHub and then "builds" all of the web pages on your site.
 --
 #### The Deployer
 
-* This takes the output of the build process and drops it into a hosting service called "S3"
-* Example S3 URL: http://cg-06ab120d-836f-49a2-bc22-9dfb1585c3c6.s3-website-us-gov-west-1.amazonaws.com/site/18f/federalist-modern-team-template/
+* This takes your web pages and drops them into a hosting service called "S3"
+* Example S3 URL: [http://cg-06ab120d-836f-49a2-bc22-9dfb1585c3c6.s3-website-us-gov-west-1.amazonaws.com/site/18f/federalist-modern-team-template/](http://cg-06ab120d-836f-49a2-bc22-9dfb1585c3c6.s3-website-us-gov-west-1.amazonaws.com/site/18f/federalist-modern-team-template/)
 --
 #### The Proxy
-* This loads the content from S3 at a URL like https://federalist-proxy.app.cloud.gov/site/18f/federalist-modern-team-template/
+* This displays the content from S3 at a URL like [https://federalist-proxy.app.cloud.gov/site/18f/federalist-modern-team-template/](https://federalist-proxy.app.cloud.gov/site/18f/federalist-modern-team-template/)
 * It also adds headers for security
 --
 #### The Content Delivery Service
-* This puts all of the content on a custom URL like https://federalist-modern-team-template.18f.gov/
+* This displays all of the content from the proxy at a URL like [https://federalist-modern-team-template.18f.gov/](https://federalist-modern-team-template.18f.gov/)
 ---
-## Concept B
---
-Content A
---
-Content B
+# Federalist Screens
 ---
-# Practice
-* Three activities and screenshot guides follow for
-  * X
-  * Y
-  * Z
+## Settings
+--
+#### Default Branch
+Where you keep you "production" code on GitHub. You should consider protecting this branch!
+--
+#### Static Site Engine
+Tells Federalist how it should build your site - or if Federalist shouldn't build anything if the build happens before content goes to GitHub.
+--
+#### GitHub Branches
+Shows you a list of current GitHub branches and links to view builds for each.
+--
+#### Custom Domain
+This tells Federalist to build your "production" site to load content from a different location. Set this immediately after your site has launched on its new URL.
+--
+#### Demo Site
+Allows you to deploy another production-like version of your site for final approvals at custom urls, such as [https://staging.login.gov](https://staging.login.gov).
+--
+#### Site / Preview Configuration
+For experts: these settings allow you to give special instructions to the Federalist build process.
+---
+## Published Tab
+--
+A table showing what Federalist has built before. There are two columns.
+--
+####  Branch
+Lists all of the different branch names Federalist has built for you.
+--
+#### Actions
+* View: Allows you to view the site as last deployed for that branch.
+* Files: For debugging, allows you to verify which files were published by Federalist for the branch.
+---
+## Builds Tab
+--
+The builds table shows the last 100 builds that Federalist did and what happened.
+--
+#### Actions
+* Restart: tells Federalist to immediately kick off a new build for a branch.
+* Logs: For debugging, shows you the longer logs from the build.
+---
+# Exercises
+---
+## X causes Y exercise
+--
+### If you create a new branch...
+--
+#### ....Federalist builds out the branch at [https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/<branch-name>/](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/<branch-name>/)
+--
+### If you merge a pull request...
+--
+#### ....Federalist builds out the merged code in the pull request's target branch at [https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/<branch-name>/](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/<branch-name>/)
+--
+### If you delete a branch...
+--
+#### ....Federalist leaves the old branch content alone
+--
+### If you try to save bad code in GitHub...
+--
+#### ....Federalist's build will break and you'll need to check the logs.
+--
+### If you ...
+--
+#### ....Federalist 
+--
+### If you ...
+--
+#### ....Federalist 
+--
+####
+--
+#### Actions
+* Restart: tells Federalist to immediately kick off a new build for a branch.
+* Logs: For debugging, shows you the longer logs from the build.
 
 ---
-##Make an Issue!
-Try it yourself & go "down" to see the step-by-step workflow.
-Starting location: [https://github.com/18F/hourofcode](https://github.com/18F/hourofcode)
+## Make a new branch and then view on Federalist!
 --
 ![](https://raw.githubusercontent.com/18F/slides/18f-pages/assets/img/GitHub%20Training/Issue1.png)
 --
