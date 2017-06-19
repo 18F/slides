@@ -20,16 +20,23 @@ title: Federalist Training
 ## The Problem
 --
 #### Compliance is hard
-* A basic .gov page can cost $75000 - $150000 to certify as compliant.
+* A basic .gov page can cost $75000 - $150000 to certify as compliant, even if all public data
 * Every piece of complexity makes compliance more difficult.
---
-#### Static sites are harder to attack
-* There's no server to "take over" or "hack," unlike with a dynamic web server
-* Instead, there are only files to be downloaded.
 --
 #### Federalist protects hosting
 * You don't have direct access to your website
 * You can change only your site's content.
+* See architecture diagram on https://federalist-docs.18f.gov/pages/how-federalist-works/
+---
+## Static vs Dynamic
+--
+#### Static sites are harder to attack
+* There's no server to "take over" or "hack," unlike with a dynamic web server
+* Instead, there are only files to be downloaded.
+* This means that the whole website is easier to maintain and has fewer vulnerabilities.
+--
+#### Static sites are easier to securely customize
+* Designers and developers can customize without having to strip away CMS-provided features and defaults
 ---
 ## Federalist Components
 --
@@ -37,12 +44,13 @@ title: Federalist Training
 * This is where you change your web content!
 * When you make a change on GitHub, GitHub sends a "webhook" to Federalist to start the build process.
 --
-#### The Builder
-* This loads your web content off GitHub and then "builds" all of the web pages on your site.
+#### The Builder & Deployer
+* The builder loads your web content off GitHub and then "builds" all of the web pages on your site.
+* The deployer takes your web pages and drops them into a hosting service called "S3"
 --
-#### The Deployer
-
-* This takes your web pages and drops them into a hosting service called "S3"
+#### The Hosting
+* S3 = "Simple Storage Service"
+* Like a fileserver
 * Example S3 URL: [http://cg-06ab120d-836f-49a2-bc22-9dfb1585c3c6.s3-website-us-gov-west-1.amazonaws.com/site/18f/federalist-modern-team-template/](http://cg-06ab120d-836f-49a2-bc22-9dfb1585c3c6.s3-website-us-gov-west-1.amazonaws.com/site/18f/federalist-modern-team-template/)
 --
 #### The Proxy
