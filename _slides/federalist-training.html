@@ -11,9 +11,9 @@ title: Federalist Training
 * Federalist Screens
 * Practice
 * Reference Materials
-
-* The slides are navigated both Left/Right and Up/Down (see bottom right of screen)
-* Link to slides: [https://slides.18f.gov/github-basics/#/](https://slides.18f.gov/federalist-training/#/)
+* Tips:
+    * The slides are navigated both Left/Right and Up/Down (see bottom right of screen)
+    * Link to slides: [https://slides.18f.gov/federalist-training/#/](https://slides.18f.gov/federalist-training/#/)
 ---
 # Concepts
 ---
@@ -97,9 +97,13 @@ The builds table shows the last 100 builds that Federalist did and what happened
 ---
 ## X causes Y exercise
 --
+### If you edit your master branch...
+--
+#### ....Federalist will change your live site!
+--
 ### If you create a new branch...
 --
-#### ....Federalist builds out the branch at [https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/<branch-name>/](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/<branch-name>/)
+#### ....Federalist builds a preview at [https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/<branch-name>/](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/<branch-name>/)
 --
 ### If you merge a pull request...
 --
@@ -111,17 +115,11 @@ The builds table shows the last 100 builds that Federalist did and what happened
 --
 ### If you try to save bad code in GitHub...
 --
-#### ....Federalist's build will break and you'll need to check the logs.
+#### ....Federalist's build will break and you'll need to check the logs. The previous build stays up.
 --
-### If you ...
+### If you save sensitive data on GitHub...
 --
-#### ....Federalist 
---
-### If you ...
---
-#### ....Federalist 
---
-####
+#### ....you need to follow your organization's procedures for managing that situation, as everything on Github is public.
 --
 #### Actions
 * Restart: tells Federalist to immediately kick off a new build for a branch.
